@@ -211,10 +211,8 @@ For issues, questions, or suggestions, please:
 
 ## 🚦 Status
 
-- Development Status: Active
+- Development Status: Incomplete
 - Last Updated: June 2025
 - Maintained by: N0Kzs
 
 ---
-
-**Made with ❤️ by N0Kzs**
